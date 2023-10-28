@@ -161,6 +161,7 @@ body {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
+  font-size: 4rem;
 }
 
 .about h2 span,
@@ -183,25 +184,27 @@ body {
 
 .about .row .content {
   flex: 1 1 35rem;
-  padding: 0 1rem;
+  padding: 0 2rem;
 }
 
 .about .row .content h3 {
   font-size: 1.8rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .about .row .content p {
-  margin-bottom: 0.8rem;
-  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
   font-weight: 100;
   line-height: 1.6;
+  text-align: justify;
 }
 
 /* Menu Section */
 .menu h2,
 .contact h2 {
   margin-bottom: 1.5rem;
+  font-size: 4rem;
 }
 .menu p,
 .contact p {
@@ -210,6 +213,7 @@ body {
   margin: auto;
   font-weight: 100;
   line-height: 1.6;
+  font-size: 2rem;
 }
 
 .menu .row {
@@ -217,6 +221,7 @@ body {
   flex-wrap: wrap;
   margin-top: 5rem;
   justify-content: center;
+  font-size: 2rem;
 }
 
 .menu .row .menu-card {
@@ -285,6 +290,7 @@ footer {
   text-align: center;
   padding: 1rem 0 3rem;
   margin-top: 3rem;
+  font-size: 2rem;
 }
 
 footer .socials {
@@ -292,8 +298,8 @@ footer .socials {
 }
 
 footer .socials a {
-  color: #fff;
-  margin: 1rem;
+  color: #0011ff;
+  margin: 2rem;
 }
 
 footer .socials a:hover,
