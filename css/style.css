@@ -118,7 +118,7 @@ body {
 }
 
 .hero .content h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   color: #fff;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
   line-height: 1.2;
@@ -413,6 +413,6 @@ footer .credit a {
 /* Mobile Phone */
 @media (max-width: 450px) {
   html {
-    font-size: 200%;
+    font-size: 50%;
   }
 }
