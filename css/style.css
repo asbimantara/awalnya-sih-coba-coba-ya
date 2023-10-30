@@ -1,5 +1,5 @@
 :root {
-  --primary: #ff7b00;
+  --primary: #17e165;
   --bg: #010101;
 }
 
@@ -90,7 +90,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpeg");
+  background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -125,7 +125,7 @@ body {
 }
 
 .hero .content h1 span {
-  color: #ff0000;
+  color: #05f349;
 }
 
 .hero .content p {
@@ -178,7 +178,8 @@ body {
 }
 
 .about .row .about-img img {
-  width: 100%;
+  width: 60%;
+  border-radius: 10%;
 }
 
 .about .row .content {
